@@ -86,3 +86,7 @@ Next Session:
       3xx -
       4xx -
       5xx -
+
+Task:
+
+  1. Revise the 2023-07-01 topics
