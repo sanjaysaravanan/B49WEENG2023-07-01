@@ -1,0 +1,88 @@
+Array Problems - Basic Algorithms
+  1. Searching
+  2. Loop inside loop
+  4. Largest of an array
+  5. Smallest of an array
+  6. Array Reverse
+
+String:
+  1. Reverse a String
+  2. Palindrome
+
+Roadmap 1st Half:
+  Module 1:
+    Basic Browser and JS basics
+
+  Module 2:
+    HTML CSS
+
+  Module 3:
+    DOM with JS
+
+  Module 4:
+    Async Programming in JS
+
+Topics:
+  Introduction to Web
+
+  working of internet with HTTP/HTTPS
+
+  Evolution Of Browsers
+    Mosaic
+    Natscap, Internet Explorer
+    Chrome, Mozilla
+
+  IP Address, MAC Address, HTTP Status, methods
+
+  IP - Internet Protocol Address is used to identify network in internet( WWW/Golbal Public Network )
+
+  MAC: Media Access Control Address -> local addresses to identify/access media on a local network
+
+  http1.1 vs http2:
+    reference --> https://www.wallarm.com/what/what-is-http-2-and-how-is-it-different-from-http-1
+
+
+  http status, response codes to understand connection
+    1xx -
+    2xx - 
+    3xx -
+    4xx -
+    5xx -
+
+Next Session:
+  number --> iteration through digits
+  Prime Number
+  Basic Sorting
+
+  Object or Dictionary iteration ( data storing variable ) 
+  key <-> value pair
+    {
+        name: 'Sanjay',
+        role: 'Developer',
+        desgination: 'Software Engineer'
+    }
+
+
+  Rendering ---> Convert HTML code to Beatiful webpage
+    Hyper Text Mark Up Language
+    HTML Rendering Process Or DOM:
+      DOM --> Document Object Model
+        Skeleton Of Webpage
+
+      1. Browser Fetchs the HTML Document
+      2. Parses it via 
+        DOM Tree --> which is used to rendering
+      3. CSS -> Written Inside/outside HTML
+        CCSSOM Tree --> which is used to painting or format the HTML rendered
+        CSS: Presentation/Skin/Makeup ---> Beautification
+
+    JS:
+      functional Brain of HTML --> Client Side( Page User will see ) scripting / functional script
+      BrowserJs vs Nodejs
+  
+    http status and method deep dive
+      1xx -
+      2xx - 
+      3xx -
+      4xx -
+      5xx -
